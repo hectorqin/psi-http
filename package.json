@@ -1,0 +1,16 @@
+{
+  "name": "psi-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "humanize-url": "^2.1.0",
+    "pretty-ms": "^6.0.1",
+    "sort-on": "^4.1.0"
+  },
+  "license": "ISC"
+}
